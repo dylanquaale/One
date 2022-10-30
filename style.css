@@ -72,7 +72,7 @@ main{
 
 aside{
     flex: 30%;
-    background-color: whitesmoke;
+    background-color: #2E4053;
     padding: 20px;
     flex-wrap: wrap;
     font-family: sans-serif;
@@ -144,4 +144,26 @@ section{
     border-radius: 5px;
     position: relative;
     z-index: 1;
+}
+
+.btn::after{
+    content: "";
+    background: var(--color);
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 0%;
+    z-index: -1;
+    transition: width .5s ease;
+}
+
+.btn:hover::after{
+    width: 100%;
+}
+
+@media (max-width:768px){
+    .grid{
+        grid-template-columns: 1fr;
+    }
 }
