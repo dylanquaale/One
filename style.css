@@ -27,5 +27,8 @@
 }
 
 .logo_container h1{
-    color:red;
+    color: #1D8348;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
 }
