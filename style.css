@@ -105,3 +105,11 @@ section{
     align-items: center;
     justify-content: center;
 }
+
+.left img{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+
