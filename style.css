@@ -201,3 +201,27 @@ section{
     background-image: url(project-image.jpeg);
     background-size: cover;
 }
+
+.project-two{
+    width: 400px;
+    height: 400px;
+    background: #fff;
+    position: relative;
+    box-shadow: -15 7px 30px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin: 50px;
+    background-image: url(project-2.jpeg);
+    background-size: cover;
+}
+
+.project-three{
+    width: 400px;
+    height: 400px;
+    background: #fff;
+    position: relative;
+    box-shadow: -15 7px 30px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin: 50px;
+    background-image: url(project-image-3.jpeg);
+    background-size: cover;
+}
