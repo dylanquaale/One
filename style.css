@@ -39,3 +39,14 @@
 .logo_container h1 span{
     font-weight: 100px;
 }
+
+.navigation{
+    float: right;
+    height: 100%;
+}
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+}
