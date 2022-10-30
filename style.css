@@ -189,3 +189,15 @@ section{
     justify-content: center;
     flex-flow: wrap;
 }
+
+.project-one{
+    width: 400px;
+    height: 400px;
+    background: #fff;
+    position: relative;
+    box-shadow: -15 7px 30px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin: 50px;
+    background-image: url(project-image.jpeg);
+    background-size: cover;
+}
