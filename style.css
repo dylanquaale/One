@@ -31,10 +31,11 @@
     height: 100%;
     display: table-cell;
     vertical-align: middle;
-    font-family:'Montserrat';
+    font-family: sans-serif;
     font-size: 32px;
+    font-weight:800;
 }
 
 .logo_container h1 span{
-    
+    font-weight: 100px;
 }
