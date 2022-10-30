@@ -174,3 +174,18 @@ section{
     width: 100%;
     height: auto;
 }
+
+.project-header{
+    font-size: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin: 20px;
+}
+
+.projects{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: wrap;
+}
