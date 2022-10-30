@@ -250,6 +250,7 @@ section{
 .content{
     padding: 25px 0;
     color: #154360;
+    font-style: italic;
 }
 
 .button{
