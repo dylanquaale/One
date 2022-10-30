@@ -245,5 +245,17 @@ section{
     margin-top: 10px;
     color: #154360;
     font-size: 2rem;
-    
+}
+
+.content{
+    padding: 25px 0;
+    color: #154360;
+}
+
+.button{
+    border: 5px solid #fff;
+    width: 160px;
+    box-shadow: 15px 7px 30px rgba(0, 0, 0, 0.2);
+    padding: 15px;
+    margin-bottom: 50px;
 }
