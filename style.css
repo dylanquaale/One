@@ -225,3 +225,25 @@ section{
     background-image: url(project-image-3.jpeg);
     background-size: cover;
 }
+
+.text-container{
+    position: absolute;
+    height: 75px;
+    width:100%;
+    z-index: 2;
+    left: 0;
+    bottom: 0;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+.text-container:hover{
+    height: 250px;
+}
+
+.name{
+    margin-top: 10px;
+    color: #154360;
+    font-size: 2rem;
+    
+}
