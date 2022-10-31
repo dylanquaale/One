@@ -176,6 +176,7 @@ section{
 }
 
 .project-header{
+    color: #fff;
     font-size: 4rem;
     display: flex;
     align-items: center;
