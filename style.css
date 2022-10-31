@@ -289,3 +289,17 @@ section{
     flex-direction: column;
     margin-right: 4rem;
 }
+
+.footer-heading h2{
+    margin-bottom: 2rem;
+}
+.footer-heading a{
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+}
+
+.footer-heading a:hover{
+    color: var(--color);
+    transition: 0.3s ease-out;
+}
