@@ -4,24 +4,10 @@ portfolio
 
 ## Description
 
-What I did is replace some of the div tags with better semantic elements.
+What my plan was for this project is to make a simple easy to navigate portfolio page. That way employers have easy acces to the work I have done. All my tabs to navigate the page are at the top in the header. Followed by my about me section, then to my work section, lastly followed by the footer.
+Each section has their own links that you can use to take you to my, linkedin, instagram, twitter,
 
-<header> <main> alt tags <nav> <section> <aside> <footer>
-Header- Showing where the header of page is instead of using a div
-Main- Represents the dominant content of the body
-Nav- Set of navigation links
-Section- Shows section of webpage
-Aside- representing my sidebar
-Footer- Bottom of the page "Made with ❤️️ by Horiseon"
-
-## Description
-
-Click on links in the header of to navigate around.
-Search Engine Optimization
-Online Reputation Management
-Social Media Marketing
-
-## Installation
+### Installation
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
