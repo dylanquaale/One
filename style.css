@@ -200,7 +200,7 @@ section{
     box-shadow: -15 7px 30px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url(project-image.jpeg);
+    background-image: url(Linkedin.png);
     background-size: cover;
 }
 
@@ -212,8 +212,9 @@ section{
     box-shadow: -15 7px 30px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url(project-2.jpeg);
+    background-image: url(github-pages.png);
     background-size: cover;
+    justify-content: center;
 }
 
 .project-three{
