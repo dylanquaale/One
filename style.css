@@ -323,3 +323,10 @@ section{
 #footer-email::placeholder{
    color: #b1b1b1;
 }
+
+#footer-email-btn{
+    width: 100px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: var(--color);
+}
