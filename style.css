@@ -329,4 +329,9 @@ section{
     height: 40px;
     border-radius: 4px;
     background-color: var(--color);
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 1rem;
 }
+
