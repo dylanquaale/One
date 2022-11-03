@@ -50,7 +50,7 @@
 .logo_container h1 span{
     font-weight: 100px;
 }
-
+/* navigation css */
 nav {
     display: flex;
     justify-content: flex-end;
