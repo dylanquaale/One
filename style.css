@@ -362,6 +362,8 @@ section{
     font-size: 1rem;
 }
 
+/* I had a news letter submit button in my html and took it out didn't feel like it was relevant for this assingment
+can easliy add it back in if I wanted to. */
 #footer-email-btn:hover{
     cursor: pointer;
     background-color: skyblue;
