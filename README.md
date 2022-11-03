@@ -5,7 +5,9 @@ portfolio
 ## Description
 
 What my plan was for this project is to make a simple easy to navigate portfolio page. That way employers have easy acces to the work I have done. All my tabs to navigate the page are at the top in the header. Followed by my about me section, then to my work section, lastly followed by the footer.
-Each section has their own links that you can use to take you to my, linkedin, instagram, twitter, and github pages.
+Each section has their own links that you can use to take you to my, linkedin, instagram, twitter,facebook and github pages.
+
+Page is currently unreponsive to different screen sizes.
 
 ### Installation
 
@@ -13,12 +15,9 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+To be able to deploy my projects to make it easy for employers to navigate
 
 ## Credits
-
 
 ## License
 
@@ -34,15 +33,20 @@ The last section of a high-quality README file is the license. This lets other d
 
 ## Features
 
+Links for different webpages.
+Navigation to move around the page.
+Contact info bottom of page.
+Hover to my projects to add a description when hovering over.
+
 ## How to Contribute
+
+Go to my github page and pull.
 
 ## Tests>
 
-- What was your motivation?-Make the code easier to navigate than before
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?- Making it easier to read for the next person. Also made the website more accessible.
-- What did you learn?- This helped me understand where and how to place semantic tags instead of divs.
-  Also learned the reason why we use these tags. To make the code easier to read and navigate.
+I built this project for employers.
+Also to have a personal webpage for myself.
+I learned how to use flex boxes make links work create a header and footer.
 
 ## Table of Contents (Optional)
 
@@ -58,5 +62,6 @@ If your README is long, add a table of contents to make it easy for users to fin
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
+
 For employers to be able to contact me.
 To display the work that I have done.
