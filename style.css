@@ -250,6 +250,7 @@ section{
     justify-content: center;
 }
 
+/* text containers for when you hover */
 .text-container{
     position: absolute;
     height: 75px;
@@ -334,6 +335,7 @@ section{
     margin-bottom: 2rem;
 }
 
+/* footer links */
 #footer-email{
     width: 250px;
     height: 40px;
