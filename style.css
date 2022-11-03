@@ -369,6 +369,9 @@ section{
 
 
 @media screen and (max-width: 1000px) {
+    .container .project {
+        flex-direction: column;
+    }
 
     
 }
@@ -376,6 +379,10 @@ section{
 
 
 @media screen and (max-width: 768px) {
+    .container .project {
+        flex-direction: column;
+    }
+    
     .footer-3{
         display: none;
     }
