@@ -85,6 +85,7 @@ main{
     display: flex;
 }
 
+
 aside{
     flex: 30%;
     background-color: #2E4053;
@@ -381,6 +382,17 @@ can easliy add it back in if I wanted to. */
     
 }
 
+@media screen and (max-width: 992px) {
+    .flex { grid-template-columns: 1fr;
+    }
+        
+    }
+
+
+@media screen and (max-width: 768px)
+    .
+
+@media screen and (max-width: 576px)
 
 
 @media screen and (max-width: 768px) {
