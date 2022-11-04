@@ -7,8 +7,6 @@ portfolio
 What my plan was for this project is to make a simple easy to navigate portfolio page. That way employers have easy acces to the work I have done. All my tabs to navigate the page are at the top in the header. Followed by my about me section, then to my work section, lastly followed by the footer.
 Each section has their own links that you can use to take you to my, linkedin, instagram, twitter,facebook and github pages.
 
-Page is currently unreponsive to different screen sizes.
-
 ### Installation
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
@@ -47,6 +45,7 @@ Go to my github page and pull.
 I built this project for employers.
 Also to have a personal webpage for myself.
 I learned how to use flex boxes make links work create a header and footer.
+Page is currently unreponsive to different screen sizes.
 
 ## Table of Contents (Optional)
 
@@ -58,8 +57,6 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [License](#license)
 
 ## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 
